@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487574467546",
+    "project_id": "fir-prueba-pablo-2021",
+    "storage_bucket": "fir-prueba-pablo-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487574467546:android:07d310d25218da958946e3",
+        "android_client_info": {
+          "package_name": "com.prueba.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487574467546-0000lhndnn4gj7d6ss3iiulqp0i0nhgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBcMJQZUvXqV0ugei1JawITgseb31KYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487574467546-0000lhndnn4gj7d6ss3iiulqp0i0nhgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
